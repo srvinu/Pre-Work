@@ -1,0 +1,36 @@
+
+    h1, .center {
+        text-align: center;
+    }
+    h2, .bold{
+        font-weight: bold;
+    }
+    .red {
+        color:red;
+    }
+    .blue{
+        color: blue
+    }
+    .green, .styledFont {
+        color: green
+    }
+    .big {
+        font-size: 30px;
+    }
+    .tiny{
+        font-size: 10px;
+    }
+    .family{
+        font-family: zapfino
+    }
+    .bigorangebold{
+        font-size: 30px;
+        font-weight: bold;
+        color: orange;
+    }
+    .styledImage{
+        border-width: 10px;
+        border-style: solid;
+        border-color: yellow;
+    }
+    
